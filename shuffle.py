@@ -1,3 +1,4 @@
+#problem 17.2 from ctci 
 import random
 
 #make deck
